@@ -64,27 +64,3 @@ Create one combined list of advisors and investors.
 
 Identify whether each person is an advisor or investor and include the
 company associated with each investor.
-
-### 8. Actor Award Coverage
-Analyze how well the film inventory covers awarded actors.
-
-Calculate the percentage of actors for whom the business carries a film,
-separated into:
-- Actors with three award types
-- Actors with two award types
-- Actors with one award type
-
-## Project Structure
-
-```text
-maven-movies-sql-final-project/
-│
-├── README.md
-├── 01_store_managers_and_addresses.sql
-├── 02_inventory_details.sql
-├── 03_inventory_by_rating.sql
-├── 04_replacement_cost_by_category.sql
-├── 05_customer_information.sql
-├── 06_customer_lifetime_value.sql
-├── 07_advisors_and_investors.sql
-└── 08_actor_award_coverage.sql
